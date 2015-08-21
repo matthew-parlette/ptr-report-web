@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# ptr-report-web
+config.yaml
